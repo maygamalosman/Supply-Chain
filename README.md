@@ -76,9 +76,9 @@ The final visualizations highlight:
 
 Dashboard Formatting Guidelines
 
-    Font Sizes: Headers (10 pt), Body Text (9 pt), Data Labels and Tooltips (8 pt).
+    Font Sizes: Headers (15 pt), Body Text (9 pt), Data Labels and Tooltips (9 pt).
     Number Formatting: Currency for financials, percentages for defect rates, and commas for large numbers.
-    Color Palette: Background #242f1f, Text #E8D8C0, Primary Charts #A8BDA3, Highlights #FFC107, and Accents #D68A2D, #FF4F2.
+    Color Palette: Background #242f1f, Text #E8D8C0, Primary Charts #A8BDA3, Highlights #FFC107, and Accents #D68A2D, #FF4F20.
 
 Conclusion
 
