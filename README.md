@@ -59,7 +59,9 @@ python
 
 Step 2: Data Analysis (SQL)
 
-Using SQL queries, we further analyzed the cleaned dataset to answer specific questions and derive insights related to:
+Using SQL queries,
+![Q 3](https://github.com/user-attachments/assets/495a55f2-ca7f-4f13-8f95-1160769eb944)
+ we further analyzed the cleaned dataset to answer specific questions and derive insights related to:
 
     Revenue and Sales: Understanding revenue distribution by product type and customer demographics.
     Sales and Quantities: Examining quantities sold by price levels and defect rates.
@@ -68,6 +70,7 @@ Using SQL queries, we further analyzed the cleaned dataset to answer specific qu
     Shipping and Transportation: Evaluating shipping costs by carrier, location, and transportation modes.
 
 Step 3: Data Visualization (Tableau)
+![Revenue,Quantities, Supplier   CostsDashboard](https://github.com/user-attachments/assets/94d6b573-b7ee-494b-8882-67c891fbec5c)
 
 The final visualizations highlight:
 
@@ -77,6 +80,7 @@ The final visualizations highlight:
     Customer Demographics: Purchasing trends by demographic groups.
 
 Dashboard Formatting Guidelines
+![black backround](https://github.com/user-attachments/assets/41c08e0d-c1c1-4ca5-8860-92df9421ca94)
 
     Font Sizes: Headers (15 pt), Body Text (9 pt), Data Labels and Tooltips (9 pt).
     Number Formatting: Currency for financials, percentages for defect rates, and commas for large numbers.
